@@ -4,7 +4,7 @@
 2. Run npx start in the terminal.
 3. Scan the QR code in expo.go app.
 
-   
+
 
 
 
